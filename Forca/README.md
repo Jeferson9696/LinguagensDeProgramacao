@@ -11,6 +11,7 @@ Cada grupo deverá realizar um **fork** ou **clone** deste repositório e em uma
 1. Jeferson
 2. Samuel
 3. Thiago
+4. Vinicius Colombo
 
 ### Linguagem Java
 1. Rodrigo
